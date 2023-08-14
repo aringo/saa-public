@@ -11,8 +11,8 @@ export default function Index() {
             <div className="absolute inset-0">
               <img
                 className="h-full w-full object-cover"
-                src="https://user-images.githubusercontent.com/8431042/161311608-f5d43ab2-85b4-40c5-9dea-065985e5adf5.jpeg"
-                alt="BTS playing on stage with the group leaving in action poses"
+                src="https://cybersecurity-excellence-awards.com/wp-content/uploads/2019/12/968655.png"
+                alt="BishopFox"
               />
               <div className="absolute inset-0 bg-[color:rgba(139,92,246,0.5)] mix-blend-multiply" />
             </div>
@@ -53,7 +53,7 @@ export default function Index() {
               </div>
               <a href="https://remix.run">
                 <img
-                  src="https://user-images.githubusercontent.com/1500684/158298926-e45dafff-3544-4b69-96d6-d3bcc33fc76a.svg"
+                  src="https://cybersecurity-excellence-awards.com/wp-content/uploads/2019/12/968655.png"
                   alt="Remix"
                   className="mx-auto mt-16 w-full max-w-[12rem] md:max-w-[16rem]"
                 />
@@ -66,7 +66,7 @@ export default function Index() {
           <div className="mt-6 flex flex-wrap justify-center gap-8">
             {[
               {
-                src: "https://user-images.githubusercontent.com/8431042/161311102-fad29f2b-ffd4-4a24-aa4e-92f3fda526a7.svg",
+                src: "https://cybersecurity-excellence-awards.com/wp-content/uploads/2019/12/968655.png",
                 alt: "Netlify",
                 href: "https://netlify.com",
               },
